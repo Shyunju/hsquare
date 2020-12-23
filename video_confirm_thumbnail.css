@@ -1,0 +1,45 @@
+body{
+    position : relative;
+    margin:0 auto;
+    display : table;
+    text-align: center;
+    width: 1100px;
+    
+}
+
+#right_side { 
+    position : relative; left: 400px;
+}
+#logo{ 
+    position : relative;
+    right: 400px; 
+    margin: 50px;
+}
+#confirm_zone{
+    position : relative;
+    right: 400px;
+    margin-bottom: 50px;
+}
+#left_side{
+    position : relative;
+    margin-left: 100px;
+    float: left;
+}
+
+#con_cat{
+    position : relative;
+    right: 300px;
+}
+
+#content{
+    border-top-style: solid;
+    border-left-style: solid;
+    float: left;
+    width: 850px;
+    height: 500px;
+    left: 100px;
+    padding: 20px;
+    padding-left: 30px;
+    
+}
+
